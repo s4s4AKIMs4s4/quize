@@ -1,0 +1,11 @@
+E:\ProgInj\WAZAAARRRRR\bin\Debug\WAZAAARRRRR.exe.config
+E:\ProgInj\WAZAAARRRRR\bin\Debug\WAZAAARRRRR.exe
+E:\ProgInj\WAZAAARRRRR\bin\Debug\WAZAAARRRRR.pdb
+E:\ProgInj\WAZAAARRRRR\obj\Debug\WAZAAARRRRR.csprojAssemblyReference.cache
+E:\ProgInj\WAZAAARRRRR\obj\Debug\WAZAAARRRRR.Form1.resources
+E:\ProgInj\WAZAAARRRRR\obj\Debug\WAZAAARRRRR.Properties.Resources.resources
+E:\ProgInj\WAZAAARRRRR\obj\Debug\WAZAAARRRRR.csproj.GenerateResource.cache
+E:\ProgInj\WAZAAARRRRR\obj\Debug\WAZAAARRRRR.csproj.CoreCompileInputs.cache
+E:\ProgInj\WAZAAARRRRR\obj\Debug\WAZAAARRRRR.exe
+E:\ProgInj\WAZAAARRRRR\obj\Debug\WAZAAARRRRR.pdb
+E:\ProgInj\WAZAAARRRRR\obj\Debug\WAZAAARRRRR.Category.resources
